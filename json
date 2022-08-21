@@ -1,0 +1,57 @@
+{
+ "applovin_appkey":"WTye_OVSeh5tTQ24-pu8upNeVWu-dTtKRDS2wVpE2k7ObE_6xppDOmNxwTckXFeUfTcmDuvTFw3s7TgZnQ9hqL",
+"applovin_banner":"d12974352ba86aba",
+"applovin_inter":"16c6b89593bac24b",
+"applovin_reword":"44b4e579a4c13b5e",
+"admob_banner":"",
+"admob_inter":"ca-app-pub-5262967769339762/6693753244",
+"admob_reword":"ca-app-pub-5262967769339762/3876018213",
+"iron_appkey":"",
+"iron_banner":"",
+"iron_inter":"",
+"iron_reword":"",
+"fan_banner":"781330486205231_781334499538163",
+"fan_inter":"781330486205231_781334499538163",
+"fan_reword":"781330486205231_781334499538163",
+"adclony_appkey":"",
+"adclony_banner":"",
+"adclony_inter":"",
+"adclony_reword":"",
+"unity_appkey":"4870383",
+"unity_banner":"Banner_Android",
+"unity_inter":"Interstitial_Android",
+"unity_reword":"Rewarded_Android",
+"mopub_banner":"",
+"mopub_inter":"",
+"mopub_reword":"",
+"vungle_appkey":"",
+"vungle_banner":"",
+"vungle_inter":"",
+"vungle_reword":"",
+"chartboost_appkey":"",
+"app_signature":"",
+"heyzap_appkey":"",
+"heyzap_banner":"",
+"heyzap_inter":"",
+"heyzap_reword":"",
+
+"urlimages":[
+             "https://drive.google.com/uc?export=download&id=1F8Ywo8UUBV32xv-y--AIIDNArIam0PuY",
+             "https://drive.google.com/uc?export=download&id=1ZEB0oXvKUHV_lWdjZPE8b1fdM0mHllkw",
+             "https://drive.google.com/uc?export=download&id=1jobbGoV4aFv5rOqcBYsDhdPufuQdJkFT",
+             "https://drive.google.com/uc?export=download&id=1np7U3UwInW4kZzsPigD5Wr6iTkicv3dz",
+             "https://drive.google.com/uc?export=download&id=1zBQy7kA8cQXkfQaT_c4vFCr2RhRsyF79",
+             "https://drive.google.com/uc?export=download&id=1zBQy7kA8cQXkfQaT_c4vFCr2RhRsyF79"
+             ],
+ "textes":[
+           "AAAAAAAAA",
+           "AAAAAAAAAA",
+           "AAAAAAAAAA",
+           "AAAAAAAAAA",
+           "BBBBBBBBBB"
+           ],
+"QuiteTxt":"n",
+"ad_type":"unity"
+
+             
+}
